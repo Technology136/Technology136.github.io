@@ -8,13 +8,10 @@ header-img: "img/zhihu.jpg"
 
 ###Path：
 
+- 把握机会，抓住下一个风口，踏入虚拟现实 
+  Unity3D开发
 
-- 加入了XOGroup旗下TheKnots.com广州研发中心——诺特软件开发有限公司 Android开发
-
-- 加入了ZTESoft 中兴软创 广州研发中心 
-  Java开发
-
-- 追寻更好的自己
+- 思考人生，寻找方向
 
 
 
